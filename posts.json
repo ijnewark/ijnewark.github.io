@@ -1,0 +1,23 @@
+{
+  "updatedAt": "2026-10-22T22:19:49.703034+00:00",
+  "posts": [
+    {
+      "title": "How Do You Build an AI That Can Adapt Without Forgetting What It Knows?",
+      "url": "https://predictivemind.substack.com/p/how-do-you-build-an-ai-that-can-adapt",
+      "description": "On deployment, drift, and why static accuracy isn't enough.",
+      "date": "2026-05-12T11:15:34+00:00"
+    },
+    {
+      "title": "Why Brains Don't Forget Chairs When They Learn Your Face",
+      "url": "https://predictivemind.substack.com/p/why-brains-dont-forget-chairs-when",
+      "description": "Catastrophic forgetting, biological memory, and why the problem might be architectural.",
+      "date": "2026-05-06T13:00:51+00:00"
+    },
+    {
+      "title": "Welcome to Predictive Mind.",
+      "url": "https://predictivemind.substack.com/p/welcome-to-predictive-mind",
+      "description": "The brain is the most sophisticated learning system we know of.",
+      "date": "2026-05-06T09:50:06+00:00"
+    }
+  ]
+}
